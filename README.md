@@ -4,11 +4,11 @@
 
 <br>
 
-<p align="center">
+<div align="center">
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-</p>
+</div>
 
 <br>
 
@@ -91,9 +91,11 @@ To get a local copy up and running, simply follow these steps.
 
 ## 📜 License
 
-All Rights Reserved. © 2025 Diego Natanael Gonzalez Esparza
+All Rights Reserved. © [Year] [Your Full Name]
 
 Permission to use, copy, modify, and/or distribute this software for any purpose with or without fee is hereby denied.
+
+*See the `LICENSE` file for more details if you choose to add one.*
 
 ---
 
