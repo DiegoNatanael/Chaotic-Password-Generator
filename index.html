@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chaotic Password Generator</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <canvas id="simulationCanvas"></canvas>
+
+    <div class="controls">
+        <div class="button-group">
+            <button id="generateButton">Generate Password</button>
+            <button id="resetButton">Restart Simulation</button>
+        </div>
+        
+        <div>
+            <input type="text" id="passwordOutput" value="Click Generate..." readonly title="Click to copy">
+        </div>
+
+        <div class="slider-container">
+            <label for="lengthSlider">Length: <span id="lengthValue">16</span></label>
+            <input type="range" id="lengthSlider" min="8" max="32" value="16">
+        </div>
+        
+        <div class="options-container">
+            <label class="checkbox-label">
+                <input type="checkbox" id="includeNumbers" checked> Numbers (0-9)
+            </label>
+            <label class="checkbox-label">
+                <input type="checkbox" id="includeSymbols" checked> Symbols (!@#)
+            </label>
+        </div>
+    </div>
+
+    <script src="app.js" defer></script>
+</body>
+</html>
