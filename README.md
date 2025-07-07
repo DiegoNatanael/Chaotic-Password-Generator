@@ -101,10 +101,10 @@ Permission to use, copy, modify, and/or distribute this software for any purpose
 
 ---
 
-<!--
-
 ## 📬 Contact
-
+<!--
 Diego Natanael - [Your Portfolio Website Link] - [your.email@example.com]
+-->
 
-Project Link: [https://github.com/[YOUR_GITHUB_USERNAME]/chaotic-password-generator](https://github.com/[YOUR_GITHUB_USERNAME]/chaotic-password-generator)
+Project Link: [https://github.com/DiegoNatanael/Chaotic-password-generator](https://github.com/DiegoNatanael/Chaotic-password-generator)
+Preview: https://chaotic-password-generator.vercel.app/
