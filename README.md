@@ -107,4 +107,5 @@ Diego Natanael - [Your Portfolio Website Link] - [your.email@example.com]
 -->
 
 Project Link: [https://github.com/DiegoNatanael/Chaotic-password-generator](https://github.com/DiegoNatanael/Chaotic-password-generator)
+<br>
 Preview: https://chaotic-password-generator.vercel.app/
