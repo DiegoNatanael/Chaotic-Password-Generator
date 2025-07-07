@@ -101,6 +101,8 @@ Permission to use, copy, modify, and/or distribute this software for any purpose
 
 ---
 
+<!--
+
 ## 📬 Contact
 
 Diego Natanael - [Your Portfolio Website Link] - [your.email@example.com]
