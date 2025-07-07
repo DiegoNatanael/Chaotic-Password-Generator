@@ -4,12 +4,18 @@
 
 <br>
 
-<div align="center">
-  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-</div>
+<!-- Add your technology badges here. You can create them at shields.io -->
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 <br>
 
+<!--
+IMPORTANT: Create a GIF of your project in action and name it 'demo.gif'.
+A good way to do this is to use a free screen recorder like ScreenToGif (Windows) or Kap (Mac).
+A 10-15 second clip showing the pendulums moving and a password being generated is perfect.
+-->
 <p align="center">
   <img src="demo.gif" alt="Chaotic Password Generator Demo" width="80%">
 </p>
@@ -26,13 +32,13 @@ The core idea is that even a minuscule, imperceptible change in the starting con
 
 ## ✨ Key Features
 
-* **Live Physics Simulation:** A visually engaging double pendulum simulation running in real-time.
-* **Chaotic Entropy Source:** Uses the pendulum's state at the moment of generation as the seed for the password.
-* **Customizable Output:**
-    * Adjust password length from 8 to 32 characters.
-    * Toggle the inclusion of numbers and symbols.
-* **Click-to-Copy:** Easily copy the generated password to your clipboard.
-* **Responsive Design:** The simulation and controls adapt to different screen sizes.
+*   **Live Physics Simulation:** A visually engaging double pendulum simulation running in real-time.
+*   **Chaotic Entropy Source:** Uses the pendulum's state at the moment of generation as the seed for the password.
+*   **Customizable Output:**
+    *   Adjust password length from 8 to 32 characters.
+    *   Toggle the inclusion of numbers and symbols.
+*   **Click-to-Copy:** Easily copy the generated password to your clipboard.
+*   **Responsive Design:** The simulation and controls adapt to different screen sizes.
 
 ---
 
@@ -52,9 +58,9 @@ How does it work?
 
 This project was built using vanilla web technologies, with no external frameworks.
 
-* **HTML5**
-* **CSS3**
-* **JavaScript (ES6+)** with the HTML Canvas API for the simulation.
+*   **HTML5**
+*   **CSS3**
+*   **JavaScript (ES6+)** with the HTML Canvas API for the simulation.
 
 ---
 
@@ -66,7 +72,7 @@ To get a local copy up and running, simply follow these steps.
 
 1.  Clone the repository:
     ```sh
-    git clone [https://github.com/](https://github.com/)[YOUR_GITHUB_USERNAME]/chaotic-password-generator.git
+    git clone https://github.com/[YOUR_GITHUB_USERNAME]/chaotic-password-generator.git
     ```
 2.  Navigate into the project directory:
     ```sh
@@ -89,11 +95,9 @@ To get a local copy up and running, simply follow these steps.
 
 ## 📜 License
 
-All Rights Reserved. © [Year] [Your Full Name]
+All Rights Reserved. © 2025 Diego Natanael Gonzalez Esparza
 
 Permission to use, copy, modify, and/or distribute this software for any purpose with or without fee is hereby denied.
-
-*See the `LICENSE` file for more details if you choose to add one.*
 
 ---
 
